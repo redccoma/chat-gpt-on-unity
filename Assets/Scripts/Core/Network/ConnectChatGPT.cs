@@ -16,7 +16,7 @@ public class ConnectChatGPT : MonoBehaviour
     /// <summary>
     /// https://platform.openai.com/account/api-keys 를 통해 발급 받은 API 키를 사용합니다.
     /// </summary>
-    private static readonly string API_KEY = "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";
+    private static readonly string API_KEY = "";
 
     private System.Action<Response> mCallback;
     private bool isProgress = false;
