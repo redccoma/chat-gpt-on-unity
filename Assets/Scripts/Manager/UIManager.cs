@@ -1,10 +1,11 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using TMPro;
 
 public class UIManager : MonoBehaviour
 {
-    public TMP_InputField mInputField;
-    public TMP_Text mText;
+    public InputField mInputField;
+    public Text mText;
     
     public void OnOK()
     {
