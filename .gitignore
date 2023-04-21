@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# OpenAI API Key JSON
+/Assets/config.json
+/Assets/config.json.meta
